@@ -1,0 +1,1 @@
+window.repositoryObject = {"title_prefix":"BILLING","custom_fields":["Sample field: Status"],"tables":[{"id":"m118t3752","name":"BILLING_SERVICE (BILLING_SERVICE)","type":"TABLE","subtype":"TABLE","is_user_defined":false,"custom_fields":{"Sample field: Status":{"value":"Active","type":"LIST_CLOSED"}}}],"object_id":"m118t"};

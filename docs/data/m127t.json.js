@@ -1,0 +1,1 @@
+window.repositoryObject = {"title_prefix":"REQUESTED_TEST","custom_fields":["Sample field: Status"],"tables":[{"id":"m127t3775","name":"REQUESTED_TEST (REQUESTED_TEST)","type":"TABLE","subtype":"TABLE","is_user_defined":false,"custom_fields":{"Sample field: Status":{"value":"Active","type":"LIST_CLOSED"}}}],"object_id":"m127t"};
